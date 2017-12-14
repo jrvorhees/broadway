@@ -19,6 +19,7 @@ p {
 }
 nav {
   font-size: 18px;
+  text-align: left;
 }
 .white {
   color: white;
@@ -31,6 +32,7 @@ a {
 }
 .bg {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  max-height: 320px;
 }
 .gray{
   background-color: dimgray;
