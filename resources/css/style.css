@@ -23,6 +23,9 @@ nav {
 .white {
   color: white;
   }
+a {
+  color: white;
+}
 .small {
   font-size: 11px;
 }
